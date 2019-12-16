@@ -26,3 +26,8 @@ hs_err_pid*
 /build
 
 *.cfg.dynamic.next
+*-data
+
+a.out
+
+echo_*
